@@ -28,7 +28,7 @@ Cada gasto contiene los siguientes campos:
 
 ---
 
-## ⚙️ Configuración y ejecución
+## Configuración y ejecución
 
 ### Requisitos previos
 
