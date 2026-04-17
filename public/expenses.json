@@ -3,112 +3,112 @@
     "id": 1,
     "amount": 60000.5,
     "category": "Transporte",
-    "date": "2026-02-21",
+    "date": "2026-04-01",
     "description": "Taxi aeropuerto ida"
   },
   {
     "id": 2,
     "amount": 34000.5,
     "category": "Comida",
-    "date": "2026-02-22",
+    "date": "2026-04-02",
     "description": "Cena día 2"
   },
   {
     "id": 3,
     "amount": 93000.9,
     "category": "Entretenimiento",
-    "date": "2026-02-21",
+    "date": "2026-04-01",
     "description": "Cocteles"
   },
   {
     "id": 4,
     "amount": 8000.5,
     "category": "Salud",
-    "date": "2026-02-23",
+    "date": "2026-04-03",
     "description": "Enfermería dia 3"
   },
   {
     "id": 5,
     "amount": 28700.5,
     "category": "Comida",
-    "date": "2026-02-22",
+    "date": "2026-04-02",
     "description": "Desayuno día 2"
   },
   {
     "id": 6,
     "amount": 7000.5,
     "category": "Compras",
-    "date": "2026-02-23",
+    "date": "2026-04-03",
     "description": "Cinta Dollarcity"
   },
   {
     "id": 7,
     "amount": 14000.5,
     "category": "Transporte",
-    "date": "2026-02-23",
+    "date": "2026-04-03",
     "description": "Taxi al hostal"
   },
   {
     "id": 8,
     "amount": 34000.5,
     "category": "Entretenimiento",
-    "date": "2026-02-24",
+    "date": "2026-04-04",
     "description": "Entradas cine"
   },
   {
     "id": 9,
     "amount": 14000.5,
     "category": "Servicios",
-    "date": "2026-02-24",
+    "date": "2026-04-04",
     "description": "Aseo hostal"
   },
   {
     "id": 10,
     "amount": 74600.5,
     "category": "Transporte",
-    "date": "2026-02-24",
+    "date": "2026-04-04",
     "description": "Taxi aeropuerto regreso"
   },
   {
     "id": 11,
-    "amount": 8900.5,
+    "amount": 28900.5,
     "category": "Compras",
-    "date": "2026-02-22",
+    "date": "2026-04-02",
     "description": "Compra de farmacia"
   },
   {
     "id": 12,
     "amount": 104000.5,
     "category": "Comida",
-    "date": "2026-02-23",
+    "date": "2026-04-03",
     "description": "Cena día 3"
   },
   {
     "id": 13,
     "amount": 24000.5,
     "category": "Transporte",
-    "date": "2026-02-23",
+    "date": "2026-04-03",
     "description": "Taxi hostal día 3"
   },
   {
     "id": 14,
     "amount": 54000.5,
     "category": "Comida",
-    "date": "2026-02-23",
+    "date": "2026-04-03",
     "description": "Desayuno día 3"
   },
   {
     "id": 15,
     "amount": 94800.5,
     "category": "Entretenimiento",
-    "date": "2026-02-22",
+    "date": "2026-04-02",
     "description": "Paseo en lancha"
   },
   {
     "id": 16,
     "amount": 14000.5,
     "category": "Comida",
-    "date": "2026-02-21",
+    "date": "2026-04-01",
     "description": "Papas fritas aeropuerto"
   }
 ]
