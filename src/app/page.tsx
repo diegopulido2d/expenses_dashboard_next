@@ -6,10 +6,10 @@ import { Col, Row } from "react-bootstrap";
 
 export default function Home() {
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-8xl flex-col items-center justify-between py-20 px-16 dark:bg-black sm:items-start">
+    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans bg-background ">
+      <main className="flex flex-1 w-full max-w-8xl flex-col items-center justify-between py-8 sm:py-20 px-10 sm:px-16 bg-background sm:items-start">
         <div className="w-full flex flex-col gap-4">
-          <Row>
+          <Row className="gap-4 sm:!gap-0">
             <Col md={8}>
               <TopCategories />
             </Col>
@@ -17,7 +17,7 @@ export default function Home() {
               <MonthlyTotals />
             </Col>
           </Row>
-          <Row>
+          <Row className="gap-4 sm:!gap-0">
             <Col md={8}>
               <ExpensesByCategory />
             </Col>

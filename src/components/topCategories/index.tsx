@@ -35,11 +35,11 @@ const TopCategories = () => {
   })();
 
   return (
-    <Row xs={1} md={3} className="g-4">
+    <Row xs={1} md={3} className="h-full gap-2 sm:!gap-0">
       {topCategories.map(([category, total], index) => (
         <Col key={category}>
           <Card className="h-100">
-            <Card.Body>
+            <Card.Body className="flex flex-col items-center justify-center">
               <Card.Subtitle className="text-muted mb-2">
                 #{index + 1}
               </Card.Subtitle>

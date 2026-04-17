@@ -41,7 +41,7 @@ const ExpensesByCategory = () => {
   })();
 
   return (
-    <Card>
+    <Card className="!h-full">
       <Card.Header>
         <Card.Title className="mb-0">Spending by Category</Card.Title>
       </Card.Header>

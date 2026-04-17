@@ -38,13 +38,12 @@ const MonthlyTotals = () => {
 
   return (
     <Card className="h-full">
-      <Card.Body>
-        <Card.Title>Monthly Total</Card.Title>
-        <Card.Text>{formatCurrency(totalSpent)}</Card.Text>
-        <Card.Title>Daily Average</Card.Title>
-        <Card.Text>{formatCurrency(averagePerDay)}</Card.Text>
-        <Card.Title>Transactions This Month</Card.Title>
-        <Card.Text>{currentMonthTransactions}</Card.Text>
+      <Card.Body className="flex flex-col gap-3">
+        <Card.Title>Monthly Total: {formatCurrency(totalSpent)}</Card.Title>
+        <Card.Title>Daily Average: {formatCurrency(averagePerDay)}</Card.Title>
+        <Card.Title>
+          Transactions This Month: {currentMonthTransactions}
+        </Card.Title>
       </Card.Body>
     </Card>
   );
