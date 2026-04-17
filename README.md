@@ -184,6 +184,6 @@ Cliente (componente React)
 │              COMPONENTE CLIENTE                         │
 │  Recibe análisis en texto                               │
 │  Renderiza resultado en un Card del dashboard           │
-│  Estado final: success ✅                               │
+│  Estado final: success                                  │
 └─────────────────────────────────────────────────────────┘
 ```
